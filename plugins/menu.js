@@ -167,7 +167,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃ ⎆  Oi ${ucapan()}
 ┃ ⎆  *NAME* : ${name}
 ┃ ⎆  *BOT*   : ᴍɪʟʟɪᴇ
-┃ ⎆  *OWNER* :  ɴᴇᴇʀᴀᴊ
+┃ ⎆  *OWNER* :  AGINI
 ┃ ⎆  *PREFIX* : ᴍᴜʟᴛɪ ᴘʀᴇғɪx 
 ┃ ⎆  *WEEK* : ${week},
 ┃ ⎆  *DATE* : ${date},
